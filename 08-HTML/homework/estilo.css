@@ -1,0 +1,34 @@
+*{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+
+h1{
+    color: #f93;
+}
+
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: #71aaee;
+    padding: 50px;
+    border: dashed #555 5px;
+    display: block;
+}
+
+#spanId{
+    margin: 50px;
+    font-size: 18px;
+}
+
+img{
+    width: 400px;
+}
+
+#yerba{
+    width: 280px;
+}
